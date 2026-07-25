@@ -41,16 +41,16 @@ Inclui práticas de AWS, Terraform e CI/CD.
 
 ---
 
-### ☁️ mzhtml  
+### ☁️ IaC-AWS-IaC  
 Projeto voltado para estudos de infraestrutura, organização e automação em nuvem.  
 Inclui práticas de AWS, Terraform e estruturação de ambientes.
 
-➡️ Repositório: https://github.com/DanielMozartt/mzhtml
+➡️ Repositório: https://github.com/DanielMozartt/iac-aws
 
 ---
 
 ### 🧰 Scripts & Ferramentas  
-Coleção de scripts em PowerShell e Bash utilizados para automação de tarefas, manutenção e padronização.
+Coleção de scripts em PowerShell utilizados para automação de tarefas, manutenção e padronização.
 
 ➡️ Repositório: https://github.com/DanielMozartt/Powershell
 
