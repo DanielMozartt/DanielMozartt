@@ -61,7 +61,7 @@ e integração de recursos gráficos de modelagem 3D no Blender.
 ### 🧰 Scripts & Ferramentas  
 Coleção de scripts em PowerShell utilizados para automação de tarefas, manutenção e padronização.
 
-➡️ Repositório: https://github.com/DanielMozartt/Powershell
+➡️ Repositório: https://github.com/danielmozartt/powershell
 
 ---
 
