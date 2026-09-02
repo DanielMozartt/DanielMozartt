@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou o Daniel Mozart
 
-Profissional de **Infraestrutura, Automação e Cloud**, sempre estudando e evoluindo em direção ao mundo **DevOps**.  
+Profissional de **Infraestrutura, Suporte Automação e Cloud**, sempre estudando e evoluindo em direção ao mundo **DevOps**.  
 Atuo com **Windows, Linux, PowerShell, Bash, AWS, Terraform, CI/CD e observabilidade**, buscando entender como ambientes reais funcionam e como automatizar tarefas de forma simples, organizada e confiável.
 
 Meus projetos são parte do meu processo de aprendizado:  
